@@ -1,0 +1,15 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+comtypes==1.2.1
+idna==3.6
+PyPDF2==3.0.1
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
+requests==2.31.0
+setuptools==69.0.3
+tika==2.6.0
+urllib3==2.1.0
+wheel==0.42.0
